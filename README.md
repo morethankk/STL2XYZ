@@ -17,7 +17,7 @@ python stl_to_xyz.py <input_stl_file> <output_xyz_file>
 ### Example
 
 ```bash
-python stl_to_xyz.py 1-0001.stl output_final.xyz
+python stl_to_xyz.py example.stl output.xyz
 ```
 
 ## Description
